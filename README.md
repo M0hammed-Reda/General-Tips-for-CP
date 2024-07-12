@@ -115,5 +115,3 @@
 2. **Time Management**: Work on improving speed and accuracy under timed conditions.
 3. **Debugging**: Learn to debug quickly, use `assert` statements to catch errors early.
 4. **Team Coordination**: If in a team contest, practice dividing and coordinating work efficiently.
-
-Good luck with your contest preparation!
